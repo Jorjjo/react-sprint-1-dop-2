@@ -25,14 +25,14 @@
   background-color: #cc1439;
 }
 
-.secondary {
+.secondaryColor {
   color: #ffffff;
   background-color: #0066cc;
   border: 1px solid #0066cc;
   border-radius: 3px;
 }
 
-.default {
+.defaultColor {
   background-color: #088651;
 }
 
@@ -42,7 +42,7 @@
   opacity: 0.5;
 }
 
-.default:hover {
+.defaultColor:hover {
   background-color: #1f5d04;
 }
 
@@ -50,15 +50,15 @@
   background-color: #8f0722;
 }
 
-.secondary:hover {
+.secondaryColor:hover {
   background-color: #052038;
 }
 
-.default:active {
+.defaultColor:active {
   background-color: #0059b3;
 }
 
-.secondary:active {
+.secondaryColor:active {
   background-color: #c9e5ff;
 }
 

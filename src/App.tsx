@@ -19,10 +19,10 @@ export const App = () => {
                         <SuperButton onClick={() => {}} className={styles.blueForSuperButton}>
                 Blue Super Button
             </SuperButton> */}
-            {/* <SuperButton color={'red'}>Red superbutton</SuperButton>
+            <SuperButton color={'red'}>Red superbutton</SuperButton>
             <SuperButton color={'secondary'}>Secondary superbutton</SuperButton>
             <SuperButton>Default superbutton</SuperButton>
-            <SuperButton disabled>Disabled superbutton</SuperButton> */}
+            <SuperButton disabled>Disabled superbutton</SuperButton>
             {/* <SuperSneakers sneakers={sneakers}>
                 <div>Куча всякой информации</div>
                 <div>Куча всякой информации</div>
@@ -52,19 +52,19 @@ export const App = () => {
                 <input type='text' />
                 <SuperButton disabled>Disabled superbutton</SuperButton>
             </SuperSneakers> */}
-
+{/* 
             <Modal>
                 <h1>Сonfidential Inforfation</h1>
                 <input type='email' placeholder='email' />
                 <input type='password' placeholder='password' />
                 <input type='password' placeholder='password' />
                 <label>
-                    <input type='checkbox' />
-                    I agree
+                    <input type='checkbox' />I agree
                 </label>
 
                 <button>send</button>
-            </Modal>
+            </Modal> */}
+
             {/* <Modal></Modal> */}
         </div>
     );
